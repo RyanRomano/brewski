@@ -5,7 +5,7 @@ public folder
 
 src folder
   - App.js
-    - This is the master Javascript file. It imports all of the components and renders them.
+    - This is the master Javascript file. It imports all of the components and renders them as HTML.
   - index.js
     - This is the Javascript application root. This file imports App.js and inserts it into the div id="root" in the index.html file.
 
