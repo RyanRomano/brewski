@@ -11,7 +11,7 @@ src folder
 
 index.js uses the functionality from the ReactJS library (with the import :`import React from 'react';`) to accomplish this rendering. Using the create-react-app installer to build the project, these files are automatically created. The structure below is the default output from the react installer: `create-react-app some-cool_project-12345`command.
 
-To get started, install the modules required by package.json with `npm install`, then run `npm start` to 
+To get started, install the modules required by package.json with `npm install`, then run `npm start` to run the application on your localhost
 
 
 ### Optional read below: create-react-app automatically generated documentation
