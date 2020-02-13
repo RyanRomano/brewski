@@ -5,9 +5,16 @@ public folder
 
 src folder
   - App.js
-    - This is the master Javascript file. It imports all of the components and renders them as HTML.
+    - This is the master Javascript file. It imports all React components and renders them as HTML.
   - index.js
-    - This is the Javascript application root. This file imports App.js and inserts it into the div id="root" in the index.html file.
+    - This is the Javascript application root. This file imports App.js and inserts it into the div id="root" in the index.html file. 
+
+index.js uses the functionality from the ReactJS library (with the import :`import React from 'react';`) to accomplish this rendering. Using the create-react-app installer to build the project, these files are automatically created. The structure below is the default output from the react installer: `create-react-app some-cool_project-12345`command.
+
+To get started, install the modules required by package.json with `npm install`, then run `npm start` to 
+
+
+###Optional read below: create-react-app automatically generated documentation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -15,7 +22,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the terminal, navigate(cd) to the project directory, then run:
 
-### 1. `npm install`
 
 ### 2. `npm start`
 
