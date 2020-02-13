@@ -9,7 +9,7 @@ src folder
   - index.js
     - This is the Javascript application root. This file imports App.js and inserts it into the div id="root" in the index.html file. 
 
-index.js uses the functionality from the ReactJS library (with the import :`import React from 'react';`) to accomplish this rendering. Using the create-react-app installer to build the project, these files are automatically created. The structure below is the default output from the react installer: `create-react-app some-cool_project-12345`command.
+App.js uses the functionality from the ReactJS library (with the import :`import React from 'react';`) to accomplish this rendering. Using the create-react-app installer to build the project, these files are automatically created. The structure below is the default output from the react installer: `create-react-app some-cool_project-12345`command.
 
 To get started, install the modules required by package.json with `npm install`, then run `npm start` to run the application on your localhost
 
