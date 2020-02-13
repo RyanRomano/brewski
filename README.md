@@ -14,7 +14,7 @@ index.js uses the functionality from the ReactJS library (with the import :`impo
 To get started, install the modules required by package.json with `npm install`, then run `npm start` to 
 
 
-###Optional read below: create-react-app automatically generated documentation
+### Optional read below: create-react-app automatically generated documentation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
