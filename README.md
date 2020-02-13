@@ -1,3 +1,14 @@
+##### Basic React framework structure: 
+public folder
+  - index.html 
+    - Actual root of the application. Within the body of this html file is the div: `<div id="root"></div>` which React/Javascript  attaches to.
+
+src folder
+  - App.js
+    - This is the master Javascript file. It imports all of the components and renders them.
+  - index.js
+    - This is the Javascript application root. This file imports App.js and inserts it into the div id="root" in the index.html file.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
